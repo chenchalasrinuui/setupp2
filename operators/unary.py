@@ -1,0 +1,3 @@
+isPass=True
+print(-isPass)
+
